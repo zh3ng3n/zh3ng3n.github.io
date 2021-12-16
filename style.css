@@ -1,0 +1,67 @@
+
+body {
+background-color: silver;
+}
+
+.title-container{
+  height: 40vh;
+  background-color: lightblue;
+}
+
+.title-Hello{
+  font-size: 10rem;
+  font-weight: 700;
+  font-family: 'ZCOOL QingKe HuangYou', cursive;
+}
+
+.title-name{
+font-size: 4rem;
+font-weight: 800;
+font-family: 'ZCOOL QingKe HuangYou', cursive;
+position: relative;
+top: -2.5rem;
+colour: black;
+background-color: turquoise;
+
+}
+
+.title-tag{
+  font-size: 3rem;
+  font-weight: 500;
+  font-family: 'ZCOOL QingKe HuangYou', cursive;
+  position: relative;
+  top: -3rem;
+}
+
+.about-me-container{
+  width: 80vw;
+padding-top: 10px;
+padding-bottom: 10px;
+  margin-left: 10vh;
+  background-color: turquoise;
+}
+
+.about-me-image{
+  height: 20vw;
+  width: 20vw;
+  border-radius: 100%;
+  box-shadow: 10px 5px 10px grey
+}
+.about-me-text{
+  font-size:1.2rem
+  font-family: 'ZCOOL QingKe HuangYou', cursive;
+  colour: black
+  padding-left: 5% !important;
+  padding-right: 5% !important;
+}
+.contact-me-container{
+  margin-top: 10vh;
+  margin-bottom: 10vh;
+  font-size: 2rem;
+  font-weight: 700;
+  font-family: 'ZCOOL QingKe HuangYou', cursive;
+}
+.contact-me-icon{
+  width: 4rem;
+  height: 4rem;
+}
